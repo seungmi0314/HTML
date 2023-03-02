@@ -18,7 +18,7 @@ p[name="name-1"]{background-color: green;}
 /* 후손 선택자*/
 
 #test-div{
-    border: 2px soloid black;
+    border: 2px solid black;
 
 }
 

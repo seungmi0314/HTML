@@ -3,7 +3,7 @@
 /* :first-child : 형제 관계의 요소 중 첫번째 요소*/
 #test1 > p:first-child{
     background-color: red;
-    color:white
+    color:white;
 }
 
 /* :last-child : 형제 관계의 요소 중 마지막 요소 */
